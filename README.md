@@ -1,0 +1,2 @@
+# VoidMinimalDesktops
+Minimal Installer
